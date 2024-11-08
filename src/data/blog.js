@@ -1,4 +1,5 @@
-import logo from "../assets/logo";
+// src/data/blog.js
+import logo from "../assets/logo"; // Assuming logo is an image file in the assets folder
 
 const blogData = {
   name: "Underreacted",
